@@ -1,1 +1,8 @@
 docker run --rm --name ant bbkudk/ant-salesforce
+
+To run your docker with ant from Windows make sure you have mapped a disk drive to Docker for Windows,
+lets assume you mapped drive D:\ and you placed build.xml to development folder (D:\development\build.xml),
+now you can run your docker with next commands
+
+docker run -it --rm -v d:/:/drive_d bbkudk/ant-salesforce ant -Dbasedir=/drive_d/development/ -f /drive_d/development/build.xml describeMetadata
+
