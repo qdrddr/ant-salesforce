@@ -51,7 +51,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [AntImage]: https://raw.githubusercontent.com/frekele/docker-ant/dev/ant-logo.png
 [salesforceImage]: https://raw.githubusercontent.com/qdrddr/ant-salesforce/master/salesforce-logo.png
 [AntWebsite]: http://ant.apache.org/
-[salesforceWebsite] https://www.salesforce.com
+[salesforceWebsite]: https://www.salesforce.com
 [Website]: https://qdrddr.github.io/ant-salesforce
 [GitHub]: https://github.com/qdrddr/ant-salesforce
 [DockerHub]: https://hub.docker.com/r/ant-salesforce
