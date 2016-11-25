@@ -24,7 +24,7 @@ Apache Ant with Force.com Migration Tool
 ### License:
 See [ANT LICENSE]
 
-frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the license are as follows:
+qdrddr/ant-salesforce is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
 
